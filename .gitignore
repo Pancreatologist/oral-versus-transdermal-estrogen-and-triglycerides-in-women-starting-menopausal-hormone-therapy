@@ -1,0 +1,32 @@
+# Data files
+*.csv
+*.tsv
+*.rds
+*.rda
+*.xlsx
+*.xls
+*.sav
+*.dta
+*.parquet
+
+# Figure / table outputs
+figures/
+*.pdf
+*.tif
+*.tiff
+*.png
+*.jpg
+*.svg
+*.docx
+
+# R session artefacts
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rproj
+*.Rout
+
+# Environment and logs
+.env
+*.log
